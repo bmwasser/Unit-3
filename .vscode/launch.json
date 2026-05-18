@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MagicSquare",
+            "request": "launch",
+            "mainClass": "MagicSquare",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArrayDemo",
+            "request": "launch",
+            "mainClass": "TwoDArrayDemo",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "BirthdayParadox",
+            "request": "launch",
+            "mainClass": "BirthdayParadox",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAlgs",
+            "request": "launch",
+            "mainClass": "ArrayAlgs",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "CharExercises",
+            "request": "launch",
+            "mainClass": "CharExercises",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "ElegantArrays",
+            "request": "launch",
+            "mainClass": "ElegantArrays",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "Histograms",
+            "request": "launch",
+            "mainClass": "Histograms",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "LanguageAnalysis",
+            "request": "launch",
+            "mainClass": "LanguageAnalysis",
+            "projectName": "Unit 3_30ec7bf6"
+        },
+        {
+            "type": "java",
+            "name": "MagicEightBall",
+            "request": "launch",
+            "mainClass": "MagicEightBall",
+            "projectName": "Unit 3_30ec7bf6"
+        }
+    ]
+}
